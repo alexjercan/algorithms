@@ -10,18 +10,18 @@ filterOut _ _ = False
 
 addElem :: (Eq a, Num a) => a -> a -> [a] -> [a]
 addElem x r xs
-  | length xs == 0 = []
+  | null xs = []
   | length xs < 3 && x == r * head xs = x : xs
   | otherwise = []
 
 solve :: (Eq a, Num a) => a -> [a] -> [[a]] -> Int
 solve r [] sol = length $ filter (filterOut r) sol
-solve r (x : xs) sol = solve r xs ([x] : (map (addElem x r) sol) ++ sol)
+solve r (x : xs) sol = solve r xs ([x] : map (addElem x r) sol ++ sol)
 
 main :: IO ()
 main = do
   [n, r] <- readIntList
   xs <- readIntList
-  putStrLn $ show $ solve r xs []
+  print $ solve r xs []
 
 -- not in time limits : check python version , TODO: understand the algorithm lol

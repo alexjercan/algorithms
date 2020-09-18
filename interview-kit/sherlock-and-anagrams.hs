@@ -11,11 +11,11 @@ nonEmptySubstrings :: [Char] -> [[Char]]
 nonEmptySubstrings = concatMap (tail . inits) . tails
 
 solve :: [Char] -> Int
-solve = foldr (\xs s -> s + (length xs) * (length xs - 1) `div` 2) 0 . filter (\xs -> length xs /= 1) . group . sort . map sort . nonEmptySubstrings
+solve = foldr (\xs s -> s + length xs * (length xs - 1) `div` 2) 0 . filter (\xs -> length xs /= 1) . group . sort . map sort . nonEmptySubstrings
 
 main :: IO ()
 main = do
   [n] <- readIntList
   forM_ [1 .. n] $ \q_itr -> do
     xs <- readCharList
-    putStrLn $ show $ solve xs
+    print $ solve xs

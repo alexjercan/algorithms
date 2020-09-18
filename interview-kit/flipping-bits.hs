@@ -16,4 +16,4 @@ main = do
   [n] <- readIntList
   forM_ [1 .. n] $ \q_itr -> do
     [xs] <- readWord32List
-    putStrLn $ show $ solve xs
+    print $ solve xs
