@@ -3,7 +3,12 @@ module Main where
 import Data.List (tails)
 
 solve :: Int -> Int -> [Int] -> Int
-solve d m = length . filter (== d) . map (sum . take m) . filter ((>= m) . length) . tails
+solve d m =
+  length
+    . filter (== d)
+    . map (sum . take m)
+    . filter ((>= m) . length)
+    . tails
 
 readIntList :: IO [Int]
 readIntList = do map read . words <$> getLine
