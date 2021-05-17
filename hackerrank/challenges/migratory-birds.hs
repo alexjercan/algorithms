@@ -1,16 +1,10 @@
 module Main where
 
 import Data.List ( minimumBy, sort, group )
-
-birdOrd :: [Int] -> [Int] -> Ordering
-birdOrd [] _ = GT
-birdOrd _ [] = LT
-birdOrd xs@(x:_) ys@(y:_)
-  | length xs == length ys = compare x y
-  | otherwise = compare (length ys) (length xs)
+import Data.Function (on)
 
 solve :: [Int] -> Int
-solve = head . minimumBy birdOrd . group . sort
+solve = head . minimumBy (flip compare `on` length) . group . sort
 
 readIntList :: IO [Int]
 readIntList = do map read . words <$> getLine
