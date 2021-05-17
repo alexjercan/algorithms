@@ -10,3 +10,5 @@
 8. Drawing Book [solution](https://www.hackerrank.com/challenges/drawing-book/problem) [solution](./hackerrank/drawing-book.hs)
 9. Counting Valleys [solution](https://www.hackerrank.com/challenges/counting-valleys/problem) [solution](./hackerrank/counting-valleys.hs)
 10. Electronics Shop [solution](https://www.hackerrank.com/challenges/electronics-shop/problem) [solution](./hackerrank/electronics-shop.hs)
+11. Cats and a Mouse [solution](https://www.hackerrank.com/challenges/cat-and-a-mouse/problem) [solution](./hackerrank/cat-and-a-mouse.hs)
+12 Forming a Magic Square [solution](https://www.hackerrank.com/challenges/magic-square-forming/problem) [solution](./hackerrank/magic-square-forming.hs)
