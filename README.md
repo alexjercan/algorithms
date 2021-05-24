@@ -14,3 +14,8 @@
 12. Forming a Magic Square [problem](https://www.hackerrank.com/challenges/magic-square-forming/problem) [solution](./hackerrank/magic-square-forming.hs)
 13. Picking Numbers [problem](https://www.hackerrank.com/challenges/picking-numbers/problem) [solution](./hackerrank/picking-numbers.hs)
 14. Climbing the Leaderboard [problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) [solution](./hackerrank/climbing-the-leaderboard.hs)
+15. The Hurdle Race [problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) [solution](./hackerrank/the-hurdle-race.hs)
+16. Designed PDF Viewer [problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) [solution](./hackerrank/designer-pdf-viewer.hs)
+17. Utopian Tree Viewer [problem](https://www.hackerrank.com/challenges/utopian-tree/problem) [solution](./hackerrank/utopian-tree.hs)
+18. Angry Professor [problem](https://www.hackerrank.com/challenges/angry-professor/problem) [solution](./hackerrank/angry-professor.hs)
+19. Beautiful Days at the Movies [problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) [solution](./hackerrank/beautiful-days-at-the-movies.hs)
