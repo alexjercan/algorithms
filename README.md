@@ -27,3 +27,9 @@
 25. Non-Divisible Subset [problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem) [solution](./hackerrank/non-divisible-subset.hs)
 26. Repeated String [problem](https://www.hackerrank.com/challenges/repeated-string/problem) [solution](./hackerrank/repeated-string.hs)
 27. Jumping on the Clouds [problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) [solution](./hackerrank/jumping-on-the-clouds.hs)
+28. Equalize the Array [problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem) [solution](./hackerrank/equality-in-a-array.hs)
+29. Queens Attack II [problem](https://www.hackerrank.com/challenges/queens-attack-2/problem) [solution](./hackerrank/queens-attack-2.hs)
+30. ACM ICPC Team [problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem) [solution](./hackerrank/acm-icpc-team.hs)]
+31. Taum and B'Day [problem](https://www.hackerrank.com/challenges/taum-and-bday/problem) [solution](./hackerrank/taum-and-bday.hs)
+32. Organizing Containers of Balls [problem](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) [solution](./hackerrank/organizing-containers-of-balls.hs)
+33. Encryption [problem](https://www.hackerrank.com/challenges/encryption/problem) [solution](./hackerrank/encryption.hs)
