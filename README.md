@@ -33,3 +33,5 @@
 31. Taum and B'Day [problem](https://www.hackerrank.com/challenges/taum-and-bday/problem) [solution](./hackerrank/taum-and-bday.hs)
 32. Organizing Containers of Balls [problem](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) [solution](./hackerrank/organizing-containers-of-balls.hs)
 33. Encryption [problem](https://www.hackerrank.com/challenges/encryption/problem) [solution](./hackerrank/encryption.hs)
+34. Bigger is Greater [problem](https://www.hackerrank.com/challenges/bigger-is-greater/problem) [solution](./hackerrank/bigger-is-greater.hs)
+35. Modified Kaprekar Numbers [problem](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) [solution](./hackerrank/kaprekar-numbers.hs)
