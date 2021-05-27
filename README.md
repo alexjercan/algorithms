@@ -35,3 +35,7 @@
 33. Encryption [problem](https://www.hackerrank.com/challenges/encryption/problem) [solution](./hackerrank/encryption.hs)
 34. Bigger is Greater [problem](https://www.hackerrank.com/challenges/bigger-is-greater/problem) [solution](./hackerrank/bigger-is-greater.hs)
 35. Modified Kaprekar Numbers [problem](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) [solution](./hackerrank/kaprekar-numbers.hs)
+36. Beautiful Triplets [problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem) [solution](./hackerrank/beautiful-triplets.hs)
+37. Minimum Distances [problem](https://www.hackerrank.com/challenges/minimum-distances/problem) [solution](./hackerrank/minimum-distances.hs)
+38. Haloween Sale [problem](https://www.hackerrank.com/challenges/halloween-sale/problem) [solution](./hackerrank/halloween-sale.hs)
+39. The Time in Words [problem](https://www.hackerrank.com/challenges/the-time-in-words/problem) [solution](./hackerrank/the-time-in-words.hs)
