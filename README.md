@@ -39,3 +39,7 @@
 37. Minimum Distances [problem](https://www.hackerrank.com/challenges/minimum-distances/problem) [solution](./hackerrank/minimum-distances.hs)
 38. Haloween Sale [problem](https://www.hackerrank.com/challenges/halloween-sale/problem) [solution](./hackerrank/halloween-sale.hs)
 39. The Time in Words [problem](https://www.hackerrank.com/challenges/the-time-in-words/problem) [solution](./hackerrank/the-time-in-words.hs)
+40. Chocolate Feast [problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) [solution](./hackerrank/chocolate-feast.hs)
+41. Service Lane [problem](https://www.hackerrank.com/challenges/service-lane/problem) [solution](./hackerrank/service-lane.hs)
+42. Lisa's Workbook [problem](https://www.hackerrank.com/challenges/lisa-workbook/problem) [solution](./hackerrank/lisa-workbook.hs)
+43. Flatland Space Stations [problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem) [solution](./hackerrank/flatland-space-stations.hs)
